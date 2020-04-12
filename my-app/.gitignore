@@ -21,3 +21,19 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# # macOS
+.DS_Store
+
+# # Dependency directories
+node_modules/
+
+# # vscode
+.vscode
+
+# # Output of 'npm pack'
+*.tgz
+
+# # Logs
+logs
+*.log
